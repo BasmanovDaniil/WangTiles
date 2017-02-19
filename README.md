@@ -10,8 +10,8 @@ http://habrahabr.ru/post/185760/
 
 Unity Web Player http://basmanovdaniil.github.io/WangTiles/
 
-Windows http://yadi.sk/d/mz4wPhCX6eciQ
+Windows https://github.com/BasmanovDaniil/WangTiles/releases/download/v1.0/Windows.zip
 
-Linux http://yadi.sk/d/YMsIRrv66eekk
+Linux https://github.com/BasmanovDaniil/WangTiles/releases/download/v1.0/Linux.zip
 
-Mac http://yadi.sk/d/eKsjISNY6emUu
+Mac https://github.com/BasmanovDaniil/WangTiles/releases/download/v1.0/Mac.zip
